@@ -6,7 +6,6 @@
 
 H5 在线走迷宫游戏
 
-> 在线玩耍地址：<https://knightyun.github.io/maze-game/>
 
 # Features
 
